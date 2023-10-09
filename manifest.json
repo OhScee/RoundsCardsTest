@@ -2,8 +2,9 @@
   "name":"Card Test Pack",
   "author_name":"ohscee",
   "version_number":"0.0.1",
-  "displayName":"BlockForcePatch",
-  "description":"Fixes issues with some block stats not working properly.",
+  / "website_url":"https://github.com/OhScee/RoundsCardsTest",
+  "displayName":"SCardsTest",
+  "description":"Some test cards.",
   "dependencies": [
     "Pykess-ModdingUtils-0.4.6",
     "willis81808-UnboundLib-3.2.10",
