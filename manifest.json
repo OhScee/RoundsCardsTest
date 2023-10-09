@@ -2,7 +2,7 @@
   "name":"Card Test Pack",
   "author_name":"ohscee",
   "version_number":"0.0.1",
-  / "website_url":"https://github.com/OhScee/RoundsCardsTest",
+  "website_url":"https://github.com/OhScee/RoundsCardsTest",
   "displayName":"SCardsTest",
   "description":"Some test cards.",
   "dependencies": [
